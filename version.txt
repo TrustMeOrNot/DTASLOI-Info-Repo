@@ -1,1 +1,1 @@
-
+1.0.6;This build is no longer supported. Please update to the latest version.
